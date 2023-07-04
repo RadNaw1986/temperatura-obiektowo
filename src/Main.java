@@ -1,3 +1,5 @@
+/*RAD NAW Software Developer®*/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
